@@ -1,0 +1,24 @@
+{
+  "namedAccounts": {
+    "deployer": {
+      "default": 0
+    },
+    "wallet": {
+      "default": 0
+    }
+  },
+  "networks": {
+    "hardhat": {
+      "chainId": 1337
+    },
+    "scd-4a64": {
+      "url": "https://scd-4a64.eks-india.settlemint.com",
+      "gas": "auto",
+      "gasPrice": "auto",
+      "httpHeaders": {
+        "x-auth-token": "bpaas-6a7B85cd48457DAA33Ac9053627e3C885BbbD1A9"
+      }
+    }
+  },
+  "ipfsNodeConfig": {}
+}

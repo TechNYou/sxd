@@ -1,0 +1,4 @@
+
+DEFAULT_RPC_NODE=https://scd-4a64.eks-india.settlemint.com/bpaas-dfbd4BDA965f4455C086d8F30e4556780Bee84B1
+DEFAULT_IPFS=https://api.thegraph.com/ipfs/
+    
